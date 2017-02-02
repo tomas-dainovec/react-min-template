@@ -13,6 +13,6 @@ This project was created because I wanted to test my own ideas in React ES6 app 
 
 ##Usage##
 
-Entry poiny is `src/main.jsx`.
+Entry point is `src/main.jsx`.
 
 To start webpack-dev-server simply run `gulp`.
